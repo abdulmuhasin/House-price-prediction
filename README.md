@@ -6,7 +6,7 @@ Data Preprocessing: Handling missing values, encoding categorical variables, and
 Exploratory Data Analysis (EDA): Visualizing data distributions and relationships between features.
 Modeling: Implementing and comparing Linear Regression and Random Forest models.
 Evaluation: Assessing model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score.<BR>
-Technologies Used:<ul><br>
+Technologies Used:<B><br>
 Python<br>
 Pandas,NumPy<br>
 Scikit-learn<br>
