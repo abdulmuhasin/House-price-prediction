@@ -1,5 +1,5 @@
 # House-price-prediction
-This project predicts house prices using machine learning models like Linear Regression and Random Forest. It includes data preprocessing, EDA, and model evaluation with metrics like MAE, MSE, and R²
+This project predicts house prices using machine learning models like Linear Regression and Random Forest. It includes data preprocessing, EDA, and model evaluation with metrics like MAE, MSE, and R²<br>
 This project involves building a machine learning model to predict house prices using a dataset of housing features. The main goal is to explore different regression techniques and evaluate their performance in predicting the prices accurately.
 
 Key Features:
