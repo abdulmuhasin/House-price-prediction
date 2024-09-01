@@ -12,6 +12,6 @@ Pandas,NumPy<br>
 Scikit-learn<br>
 Matplotlib, Seaborn<br>
 Results:<br>
-Achieved a [mention best model's R² score or other metrics here].
-Insights from the data exploration phase [mention any interesting findings, like key features that influence house prices]
+Achieved a [mention best model's R² score or other metrics here].<br>
+Insights from the data exploration phase [mention any interesting findings, like key features that influence house prices].<br>
 Feel free to clone the repository, explore the code, and contribute!
